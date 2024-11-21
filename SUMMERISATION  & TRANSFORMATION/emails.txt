@@ -1,0 +1,155 @@
+Subject: Apology and Clarification Regarding Early Departure for Diwali
+From: Nikhil Patil <nikhilspatil128@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+Cc: farzana.shaikh@bridgelabz.com, neelesh.rawat@bridgelabz.com,rutuja.kelkar@bridgelabz.com
+
+Dear Sir,
+
+I want to sincerely apologize for any inconvenience caused by my early departure for Diwali.
+I understand that my request for leave was not accepted, but due to prior arrangements and the unavailability of 
+travel options after Sunday, I needed to proceed as planned.
+
+I assure you this will not happen again, and  I am fully committed to my responsibilities and will ensure all
+my tasks are completed on schedule. I will be present in the lab on Monday as scheduled.I am truly sorry, Sir. 
+
+Thank you for your understanding.
+
+Sincerely,
+Nikhil Patil
+---------------END OF EMAIL---------------
+
+
+Subject: Performance Feedback for Nikhil Patil
+From: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+To: Nikhil Patil <nikhilspatil128@gmail.com>
+Cc: gunjan.sharma@bridgelabz.com, farzana.shaikh@bridgelabz.com, neelesh.rawat@bridgelabz.com
+
+
+Dear Nikhil Patil,
+
+Bridgelabz: Your performance for Week # Wk8 are as follows:
+
+Performance Status: Need Less Help, TRACK Score : 4.10
+
+Average Values so far are:
+
+Technical Ability: 1.40, Learnability: 1.68, Communicability: 0.89
+
+Remark:This week, Nikhil worked on Spark fundamentals and implementation, 
+including Spark sessions, context, and the RDD API. He implemented word 
+count and began addressing real-world use cases, including the address book 
+problem.
+
+Technical Feedback:
+His understanding of Spark’s core components such as RDDs, transformations, 
+and parallel data processing is well-developed. His implementation in 
+PySpark shows a good grasp of the framework.
+
+Soft Skills:
+Nikhil remains attentive and diligent, with fine problem-solving skills. 
+His communication has improved over the weeks still can work a more on it.
+
+Review Date:
+14-10-2024
+---------------END OF EMAIL---------------
+
+
+Subject: Request for Leave and Work from Home Due to Illness
+From: Nikhil Patil <nikhilspatil128@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+Cc: rutuja.kelkar@bridgelabz.com, farzana.shaikh@bridgelabz.com, neelesh.rawat@bridgelabz.com
+
+Hello Sir,
+I hope this email finds you well. I am writing to formally request leave on the 5th, 7th, and 8th of October, as I have been diagnosed with Malaria. Additionally, I would like to request permission to work from home on the 9th and 10th of October, while I recover.
+Please find the attached medical report for your reference.
+Thank you for your understanding and support.
+
+Best regards,
+Nikhil Patil
+---------------END OF EMAIL---------------
+
+
+Subject: Paramatrix - Selection Confirmation
+From: Priti Salunkhe <priti.salunkhe@paramatrix.com>
+To:	nikhilspatil128@gmail.com
+Cc:	hr.managers@paramatrix.com, hr@paramatrix.com
+
+Dear Nikhil,
+
+Greetings from Paramatrix Technologies!
+We are happy to confirm your selection and further employment under our GT Programme. Congratulations!
+
+Below are few details pertaining to your selection and subsequent process,
+
+Designation: - Trainee Software Engineer
+
+Compensation: - Rupees 3,60,000/-P.A. (Rupees Three Lakhs Sixty Thousand Only)
+
+Date of joining – 2nd Jan 2025
+
+Mode of working – Work from Office (Sanpada, Navi Mumbai)
+
+Offer formalization process is as follows:
+
+1.       Email Acceptance: You are requested to acknowledge and accept this email by sending us an acceptance note.
+
+2.       Employment Bond Agreement: We kindly request you to visit our office for the Employment Bond Agreement process.
+
+3.       Venue: Paramatrix Technologies Ltd.
+E-102, 1st Floor, Sanpada Railway Station Complex (Highway Side)
+Sanpada, Navi Mumbai - 400705
+
+ 
+4.       Documents to submit along with Offer acceptance email:
+
+            a.       Passport size photographs(Red Background must)
+
+            b.       Mark sheets of SSC, HSC, Graduation
+
+            c.        Residence proof(Passport/rent agreement/driving licence/Aadhaar Card)
+
+            d.       PAN card coloured scan copy
+
+            e.       Aadhaar Card coloured scan copy
+
+5.       Upon receipt of notarized original Employment Bond Agreement and copies of above documents (self-attested), the formal offer letter will be issued to you.
+
+      P.N.
+
+1.       This is not a formal offer communication and subject to any changes by the concerned authorities of the company
+
+2.       Your selection will be confirmed upon the receipt of the original Employment Bond Agreement
+
+3.       Validity of this communication is until  7th  November 2024
+
+4.       If we do not receive any confirmation by this date, this selection confirmation will be withdrawn
+
+Please feel free to contact us via email hr.managers@paramatrix.com, should you have any questions.
+
+We look forward to welcome you in our team.
+
+Thanks & Regards,
+Priti Salunkhe
+Executive -  Human Resources, Paramatrix Technologies Ltd.
+Phone : +91 2241518732|Web : www.paramatrix.com
+---------------END OF EMAIL---------------
+
+
+Subject: Auxilo Education Loan - EMI Reminder
+From: Auxilo <webmaster@auxiloeducation.in>
+To:	nikhilspatil128@gmail.com
+
+Dear Customer,
+
+Greetings from Auxilo!  
+
+We would like to bring to your notice that your current repayment type will change to full EMI from Jan-25. Your EMI repayment of Auxilo loan application number 399919001268 is INR 7183/- and will fall due from 10-01-2025 onwards.
+
+We request you to please ensure sufficient funds towards clearance and avoid any delayed payment.
+
+Kindly ignore if paid.
+
+Regards,
+Team Auxilo
+---------------END OF EMAIL---------------
+
